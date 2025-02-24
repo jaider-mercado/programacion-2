@@ -1,0 +1,2 @@
+Automovil_1 = Automovil("15-06-2003", "1A2B3C4D5E6F7G8H9J", "WXYZ1234567890ABC", "Mazda", "Mazda 3", 74500000)
+Automovil_1.mostrar_los_datos()
